@@ -26,6 +26,7 @@ $ ./heroku_init.sh <your-app-name>
 ```bash
   docker-compose build
 ```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 6. Push the code to Heroku and release it into your app:
 ```bash
