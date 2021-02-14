@@ -1,4 +1,8 @@
 {
   "name": "instapy-docker-heroku",
   "repository": "https://github.com/mcashdev/instapy-docker-heroku"
+   "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
 }
